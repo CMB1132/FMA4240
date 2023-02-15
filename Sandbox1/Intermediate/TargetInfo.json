@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Sandbox1",
+			"Path": "/Users/tui86819/Documents/Unreal Projects/Sandbox1/Source/Sandbox1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Sandbox1Editor",
+			"Path": "/Users/tui86819/Documents/Unreal Projects/Sandbox1/Source/Sandbox1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
