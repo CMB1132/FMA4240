@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeSandbox1_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x39980C02,
+				0x905B1148,
 				0xF09A9A55,
 				METADATA_PARAMS(nullptr, 0)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeSandbox1_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_Sandbox1.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Sandbox1(Z_Construct_UPackage__Script_Sandbox1, TEXT("/Script/Sandbox1"), Z_Registration_Info_UPackage__Script_Sandbox1, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x39980C02, 0xF09A9A55));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Sandbox1(Z_Construct_UPackage__Script_Sandbox1, TEXT("/Script/Sandbox1"), Z_Registration_Info_UPackage__Script_Sandbox1, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x905B1148, 0xF09A9A55));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

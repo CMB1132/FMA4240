@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"/Users/tui86819/Documents/Unreal Projects/Sandbox1/Source/Sandbox1/Sandbox1.Build.cs",
-		"/Users/tui86819/Documents/Unreal Projects/Sandbox1/Source/Sandbox1.Target.cs",
-		"/Users/tui86819/Documents/Unreal Projects/Sandbox1/Source/Sandbox1Editor.Target.cs"
+		"/Users/tui86819/Documents/GitHub/FMA4240/Sandbox1/Source/Sandbox1/Sandbox1.Build.cs",
+		"/Users/tui86819/Documents/GitHub/FMA4240/Sandbox1/Source/Sandbox1.Target.cs",
+		"/Users/tui86819/Documents/GitHub/FMA4240/Sandbox1/Source/Sandbox1Editor.Target.cs"
 	],
 	"EngineVersion": "5.1.0"
 }

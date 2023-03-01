@@ -268,13 +268,13 @@
 -I"Runtime/MovieSceneCapture/Public"
 -I"../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/AnimationDataController/UHT"
 -I"Developer/AnimationDataController/Public"
--I"/Users/tui86819/Documents/Unreal Projects/Sandbox1/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Sandbox1/UHT"
--I"/Users/tui86819/Documents/Unreal Projects/Sandbox1/Source"
+-I"/Users/tui86819/Documents/GitHub/FMA4240/Sandbox1/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Sandbox1/UHT"
+-I"/Users/tui86819/Documents/GitHub/FMA4240/Sandbox1/Source"
 -isystem"ThirdParty/mimalloc/include"
 -isystem"ThirdParty/LibTiff/Source/Mac"
 -isystem"ThirdParty/LibTiff/Source"
--include-pch "/Users/tui86819/Documents/Unreal Projects/Sandbox1/Intermediate/Build/Mac/x86_64/Sandbox1Editor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.gch"
--include "/Users/tui86819/Documents/Unreal Projects/Sandbox1/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Sandbox1/Definitions.Sandbox1.h"
+-include-pch "/Users/tui86819/Documents/GitHub/FMA4240/Sandbox1/Intermediate/Build/Mac/x86_64/Sandbox1Editor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.gch"
+-include "/Users/tui86819/Documents/GitHub/FMA4240/Sandbox1/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Sandbox1/Definitions.Sandbox1.h"
 -Wall
 -Werror
 -Wdelete-non-virtual-dtor
@@ -326,6 +326,6 @@
 -std=c++17
 -fpch-validate-input-files-content
 -stdlib=libc++
-"/Users/tui86819/Documents/Unreal Projects/Sandbox1/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Sandbox1/UHT/NewActorComponent.gen.cpp"
--MD -MF"/Users/tui86819/Documents/Unreal Projects/Sandbox1/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Sandbox1/NewActorComponent.gen.cpp.d"
--o "/Users/tui86819/Documents/Unreal Projects/Sandbox1/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Sandbox1/NewActorComponent.gen.cpp.o"
+"/Users/tui86819/Documents/GitHub/FMA4240/Sandbox1/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Sandbox1/UHT/NewActorComponent.gen.cpp"
+-MD -MF"/Users/tui86819/Documents/GitHub/FMA4240/Sandbox1/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Sandbox1/NewActorComponent.gen.cpp.d"
+-o "/Users/tui86819/Documents/GitHub/FMA4240/Sandbox1/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Sandbox1/NewActorComponent.gen.cpp.o"
